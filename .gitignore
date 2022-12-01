@@ -3,3 +3,8 @@
 ################################################################################
 
 /TestBase/.vs/TestBase
+/TestBase/Test/.vs/Test
+/TestBase/Test/bin/Debug/net6.0
+/TestBase/Test/obj
+/TestBase/Tester/bin/Debug/net6.0
+/TestBase/Tester/obj
